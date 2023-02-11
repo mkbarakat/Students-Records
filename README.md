@@ -15,4 +15,4 @@ The following figure shows the internal structure of TawjihiDS:
 
 
 
-![Full Stack developer/ Software Engineer / Data Engineer](https://www.anchorsoftacademy.com/media/courseimg/fullstack-courser-banner_2VLJ5A6.jpg)
+![Full Stack developer/ Software Engineer / Data Engineer](https://github.com/mkbarakat/Students-Records/blob/master/Screenshot%20from%202023-02-11%2012-19-17.png?raw=true)
